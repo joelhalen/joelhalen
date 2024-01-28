@@ -4,7 +4,7 @@ I'm fairly fluent in Python, and I have the most experience with building Discor
 
 👨‍💻 Tech Stack 👨‍💻
 
-> **Languages/frameworks I am familiar with**: Java, Python, (HTML, CSS, etc), JavaScript, PHP, SQL (MariaDB, SQLite, etc)
+> **Languages/frameworks I am familiar with**: Java, Kotlin, Python, (HTML, CSS, etc), JavaScript, PHP, SQL (MariaDB, SQLite, etc)
 
 > **Languages/concepts I'm currently working on**: Deobfuscation, web scraping, APIs, more java (I really do not like java 😢!!!)
 
